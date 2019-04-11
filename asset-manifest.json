@@ -1,0 +1,14 @@
+{
+  "main.css": "/react-test-heroku/static/css/main.2d8c6b6e.chunk.css",
+  "main.js": "/react-test-heroku/static/js/main.29028aad.chunk.js",
+  "main.js.map": "/react-test-heroku/static/js/main.29028aad.chunk.js.map",
+  "runtime~main.js": "/react-test-heroku/static/js/runtime~main.e4b63f4d.js",
+  "runtime~main.js.map": "/react-test-heroku/static/js/runtime~main.e4b63f4d.js.map",
+  "static/js/2.afb89262.chunk.js": "/react-test-heroku/static/js/2.afb89262.chunk.js",
+  "static/js/2.afb89262.chunk.js.map": "/react-test-heroku/static/js/2.afb89262.chunk.js.map",
+  "index.html": "/react-test-heroku/index.html",
+  "precache-manifest.5e124c294ff7cb76b120dd883dacde4a.js": "/react-test-heroku/precache-manifest.5e124c294ff7cb76b120dd883dacde4a.js",
+  "service-worker.js": "/react-test-heroku/service-worker.js",
+  "static/css/main.2d8c6b6e.chunk.css.map": "/react-test-heroku/static/css/main.2d8c6b6e.chunk.css.map",
+  "static/media/logo.svg": "/react-test-heroku/static/media/logo.5d5d9eef.svg"
+}
